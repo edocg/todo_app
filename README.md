@@ -1,6 +1,6 @@
 código tomado de Maxwell Flitton con fines pedagógicos.
 
-luego de crear las llavees en la maquina local, se deben realizar los siguientes pasos:
+para subir el repositorio local a github luego de crear las llavees en la maquina local, se deben realizar los siguientes pasos:
 
 1. Update the Remote URL to Use SSH:
 git remote set-url origin git@github.com:edocg/todo_app.git
