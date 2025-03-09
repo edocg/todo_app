@@ -1,2 +1,2 @@
 # todo_app
-una app de todos para entrenar el patron factory en Rust
+Una app de actividades a realizar para entrenar el patron factory en Rust
